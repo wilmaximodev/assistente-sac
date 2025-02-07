@@ -1,6 +1,6 @@
 .# Ambientes Virtuais
 venv/
-.env/
+.venv/
 
 # Arquivos temporários
 *.log
