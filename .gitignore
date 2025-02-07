@@ -8,7 +8,7 @@ venv/
 *.swp
 
 # Dependências de pacotes
-__pycache__/
+utils/__pycache__/
 *.pyc
 *.pyo
 
